@@ -1,0 +1,161 @@
+<!DOCTYPE>
+<html lang="en">
+<head>
+<title>
+</title>
+<style type=text/css>
+<body>
+{
+height:126vh
+margin:top 80px
+padding:size:cover:
+font_family sons.serit;
+}
+<header>
+{
+background_colour.blue;
+position:fixed;
+left:0
+right:0
+top:5px
+height:30px
+display:flex;
+align_items:0025px black;
+}
+<header *>
+{
+display:inline;
+}
+header1:{
+margin:20px;
+}
+header1:9{
+colour:blue;
+text_decoration:none;
+}
+</style>
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li>
+<a href="Tables.html">tables</a></br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>colspan&rowspan</title>
+</head>
+<style>
+table,th,td{
+border:1px solid black;
+border-collapse:collapse;
+}
+</style>
+<body>
+<table frame="below">
+<tr>
+<td rowspan="2" colspan="3">Today's political opinion</td>
+<th colspan="3">Political parties</th>
+</tr>
+<tr>
+<th>Democratic</th>
+<th>Republican</th>
+<th>Independent</th>
+</tr>
+<tr>
+<td rowspan="4"colspan="2">Do you favour or oppose increasing minimum wage</td>
+<td>Favour</td>
+<td>70%</td>
+<td>35%</td>
+<td>55%</td>
+</tr>
+<tr>
+<td>Oppose</td>
+<td>25%</td>
+<td>60%</td>
+<td>30%</td>
+</tr>
+<tr>
+<td rowspan="2">Unsue</td>
+<td rowspan="2">5%</td>
+<td rowspan="2">5%</td>
+<td rowspan="2">5%</td>
+</tr>
+
+</body>
+</html>
+</li>
+<li>
+<a href="Constructers.html">constructors page</a></br>
+</li>
+<li>
+<a href="Forms.html">Forms</a></br>
+<!DOCTYPE>
+<html lang="en">
+<head>
+<title>html form</title>
+</head>
+<body>
+<form>
+<fieldset>
+<legend>Personal Details</legend>
+</br>
+Salutation:<select>
+<option>Mr</option>
+<option>Mrs</option>
+<option>Miss</option>
+</select>
+</br>
+Name:<input type="text"name="Name"/>
+</br>
+Gender:<input type="radio"name="radio button">Male</input>
+<input type="radio"name="radio button">Female</input>
+</br>
+D.O.B:<input type="date"name="date"/>
+</br>
+Email:<input type="email"name="email"/input>
+</br>
+Description:<input type=textarea row="10"cols="5"/>
+</br>
+Do you want advert notification via email<input type="checkbox"name="checkbox">Yes</input><input type="checkbox"name="checkbox">No</input>
+</br>
+<input type="submit"name="submit"></input>
+</fieldset>
+</form>
+</body>
+</html
+</li>
+<li>
+<a href="List.html">list</a></br<!DUCTYPE>
+<html lang="en">
+<body>
+<h4>numbers list:</h4>
+<ol type:"1">
+<li>coffee</li>
+<li>Tea</li>
+<li>Milk</li>
+</ol>
+<h4>circle bullets list:</h4>
+<ul type ="circle">
+<li>Coffee </li>
+<li>Tea</li>
+<li>milk</li>
+</ui>
+<h4>roman number list<h4>
+<ol type="i">
+<li>coffee</li>
+<li>Tea</li>
+<li>Milk</li>
+</ol>
+</body>
+</html>
+</li>
+<li>
+<a href="Basic.html">Basic html tags</a></br>
+</li>
+</ul>
+</nav>
+</header>
+</body>
+</html>
