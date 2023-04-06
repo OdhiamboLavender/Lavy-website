@@ -1,0 +1,180 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+  }
+  
+  header {
+    background-color:white;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+  }
+  
+  nav a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #000;
+  }
+  main {
+padding:20px;
+display:flex;
+flex-wrap:wrap;
+justify-content:space-between;
+  }
+  section{
+    width:100%;
+    margin-bottom:#fff;
+    background-color: #ccc;
+    border:1px solid#ccc;
+    padding: 20px;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #ccc;
+  }
+  
+.about-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px
+}
+nav a:hover {
+    text-decoration: underline;
+    color: purple;
+  }
+  
+  nav a:first-child:hover {
+    color: #000;
+  }
+
+body{
+    background-color: purple;
+}
+p{
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 24px;
+    color: blue;
+}
+body{
+    background-color: green;
+}
+p{
+    color:black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 24px;
+    color: blue;
+}
+#services {
+    background-color: #f9f9f9;
+    padding: 50px 0;
+  }
+  
+  .service-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .service {
+    width: 300px;
+    margin: 0 30px;
+    text-align: center;
+  }
+  
+  .service i {
+    font-size: 48px;
+    color: #555;
+  }
+  
+  .service h3 {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .service p {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #666;
+  }
+  .scroll-box {
+    height: 200px; /* set a fixed height for the scroll box */
+    overflow-y: scroll; /* add a vertical scroll bar */
+  }
+  
+  /* customize the scroll bar */
+  .scroll-box::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  .scroll-box::-webkit-scrollbar-track {
+    background-color: #F5F5F5;
+  }
+  #contact {
+    background-color: #f9f9f9;
+    padding: 50px 0;
+  }
+  
+  form {
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  input,
+  textarea {
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+    color: #666;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  button[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: purple;
+  }
